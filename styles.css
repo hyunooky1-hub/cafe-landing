@@ -161,6 +161,24 @@ section h2 {
   margin-bottom: 10px;
 }
 
+/* Bestsellers chart */
+.bestsellers {
+  text-align: center;
+}
+
+.chart-caption {
+  color: var(--brown);
+  margin-bottom: 20px;
+}
+
+.chart-svg {
+  width: 100%;
+  max-width: 900px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
 /* Location & Contact */
 .location, .contact {
   text-align: center;
